@@ -20,6 +20,9 @@
 
 | 陈晓强    | 2014082211 |   https://ccxiaoqiang.github.io  |
 
+| 丁雪儿    | 2014082133 |   https://Snowding.github.io  |
+
+
 | 刘伦胜    | 2014082113 | https://liulunsheng.github.io    |
 | 王乾称    | 2014082301 |   https://thewanger.github.io  |
 
@@ -30,6 +33,7 @@
 | 周晓冬     | 2014082305  | https://zxiaodong.github.io |
 
 | 谷沁清  | 2014082214  | https://guqinqing.github.io    |
+
 
 | 刘伦胜  | 2014082113   | https://liulunsheng.github.io    |
 
