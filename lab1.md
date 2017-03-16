@@ -1,10 +1,9 @@
 | 姓名        | 学号  | 网址|
-| --------   | -----:  | :----:  |
 | 王晓荷    | 2014082337 |   https://xiaohe527864003.github.io  |
 | 叶柳青    | 2014082335 |   https://chili35.github.io  |
 
 
-| 虞靖雯    | 2014082120 |   <https://chen-rhythm.github.io/>  |
+| 虞靖雯    | 2014082120 |   https://chen-rhythm.github.io/>  |
 
 
 
@@ -26,7 +25,9 @@
 | 周晓冬     | 2014082305  | https://zxiaodong.github.io |
 
 | 谷沁清  | 2014082214  | https://guqinqing.github.io    |
-| 钱永生  | 2014082217  | https://qianyongsheng123.github.io   |    
 
 
 
+
+
+| 周恩静    | 2014082334 |   https://YSJSYSGS.github.io/  |
